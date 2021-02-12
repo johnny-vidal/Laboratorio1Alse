@@ -13,6 +13,9 @@ Se ejecuta en una estructura ciclica while el menu de opciones con los casos dif
 8. La ultima opcion es para salir del programa.
 
 # Nota: Si el usuario ingresa mas de 5 valores, se ve en pantalla "error" y debera ingresar de nuevo, hasta que sean menos de 5 valores
+blob:https://web.whatsapp.com/3081facc-ca4c-420b-8a52-2b8d5e91945a
+
+
 
 
 
