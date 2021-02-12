@@ -13,7 +13,8 @@ Se ejecuta en una estructura ciclica while el menu de opciones con los casos dif
 8. La ultima opcion es para salir del programa.
 
 # Nota: Si el usuario ingresa mas de 5 valores, se ve en pantalla "error" y debera ingresar de nuevo, hasta que sean menos de 5 valores
-![DIAGRAM] (https://lh3.googleusercontent.com/0L8DTCkM-gluB2uXV6_wNhF-nieOfQDkaXL8zI2eQi3mrOlnYlG3f4YDyULofSaZ0aTYGw=s129)
+![Laboratorio1alse](https://user-images.githubusercontent.com/77681850/107725727-db0e6980-6cb4-11eb-9a98-635f77cb54d5.png)
+
 
 
 
